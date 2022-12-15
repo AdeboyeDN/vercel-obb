@@ -6,4 +6,3 @@ function MyApp({ Component, pageProps }) {
 
 export default MyApp
 
-AWS_DATABASE_KEY=188181826eheuybdhhdygbdnjjdkjd
