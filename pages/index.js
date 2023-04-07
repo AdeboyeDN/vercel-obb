@@ -69,3 +69,4 @@ export default function Home() {
     </div>
   )
 }
+SECRET_KEY = 'django-insecure-*fu6*o@%%0$ybwg)%bcijddgs(5s8(iz8$#62!v_o$q%(y#1ai'
